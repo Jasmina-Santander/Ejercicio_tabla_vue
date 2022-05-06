@@ -23,25 +23,22 @@
 
 <script>
 export default {
-name : 'App',
+name : 'tabla',
   data : () => ({
       items: [
         {
-          id: 1,
           nombre: "Juan",
           apellido: "Donoso",
           nacimiento: "12/09/1976",
           edad: 58,
         },
         {
-          id: 2,
           nombre: "Pedro",
           apellido: "Soto",
           nacimiento: "12/09/1970",
           edad: 52,
         },
         {
-          id: 3,
           nombre: "Raul",
           apellido: "Santos",
           nacimiento: "12/09/2000",
